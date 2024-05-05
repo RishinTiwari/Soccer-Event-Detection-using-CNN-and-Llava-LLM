@@ -26,7 +26,7 @@ This project aims to detect soccer events in images using Convolutional Neural N
 - Future work may involve refining the CNN model architecture, exploring transfer learning techniques, and enhancing LLava's image description capabilities.
 
 ### Data Availability:
-The dataset used in this project is available for download from my Kaggle account at the following link: 
+The dataset used in this project is available for download from my Kaggle account at the following link: https://www.kaggle.com/datasets/rishintiw/soccer-event-classification-image-data-cnn-and-llm
 
 ### Research Paper:
 A detailed research paper discussing the project methodology, results, and insights is included in the project repository. link : https://github.com/RishinTiwari/Soccer-Event-Detection-using-CNN-and-Llava-LLM/blob/main/Final%20Report%20Group%204%20ISM%206215.pdf
